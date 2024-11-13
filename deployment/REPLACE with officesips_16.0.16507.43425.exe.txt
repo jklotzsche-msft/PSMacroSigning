@@ -1,0 +1,2 @@
+﻿Please replace this file with the original officesips_16.0.16507.43425.exe file.
+Get your version of it from the official website: https://www.microsoft.com/en-us/download/details.aspx?id=56617

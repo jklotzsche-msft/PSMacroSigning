@@ -1,0 +1,2 @@
+﻿Please replace this file with the original winsdksetup.exe file.
+Get your version of it from the official website: https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/

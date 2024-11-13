@@ -1,0 +1,2 @@
+﻿Please replace this file with the original vcredist_x86.exe file.
+Get your version of it from the official website: https://download.microsoft.com/download/C/6/D/C6D0FD4E-9E53-4897-9B91-836EBA2AACD3/vcredist_x86.exe
